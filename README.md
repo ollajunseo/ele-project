@@ -8,4 +8,6 @@
   - 어디서 많은 전기가 사용되는지 정확히 분석
 
 
-<div align="center"> 초기 화면 구성</div>
+<div align="center"> 
+  <h2>초기 화면 구성</h2>
+  </div>
